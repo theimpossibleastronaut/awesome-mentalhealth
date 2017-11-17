@@ -6,10 +6,13 @@ A curated list of anything remotely related to mental health, sorted an alphabet
 - [Apps](#apps)
 - [Platforms](#platforms)
 - [Resources](#resources)
-    - [On the internet](#on-the-internet)
-    - [Books](#books)
+	- [Books](#books)
+    - [Lists](#lists)
+    - [Magazines](#magazines)
+    - [Websites](#websites)
 
 ## Apps
+* [Aloe](https://aloe.club) - A self-care focused community.
 * [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 
@@ -18,9 +21,15 @@ A curated list of anything remotely related to mental health, sorted an alphabet
 
 ## Resources
 
-### On the internet
+### Books
+* [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
+
+### Lists
 * [Mental Health Knowledge Base](https://mhwkb.github.io/) - List of resources about Mental Health.
 * [Selfcare.tech](http://selfcare.tech/) - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.
 
-### Books
-* [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
+### Magazines
+* [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
+
+### Websites
+* [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
