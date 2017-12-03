@@ -18,11 +18,16 @@ A curated list of anything remotely related to mental health, sorted an alphabet
 
 ## Platforms
 * [if-me.org](https://www.if-me.org/) - Platform for sharing your mental health experiences with the people you choose.
+* [Vrendle](https://vrendle.com) - Virtual Reality platform for mental healthcare providers.
 
 ## Resources
 
 ### Books
+* [Dancing in the Rain](https://books.google.com/books?id=v4WcDAEACAAJ) - Aimed at education leaders to help them thrive under pressure by using mindfulness and self-compassion.
+* [The Craving Mind](https://books.google.com/books?id=f888DgAAQBAJ) - About addictions, how we get them and how to get rid of them using mindfulness.
+* [The Mystery of Sleep](https://books.google.com/books/?id=bAQ0DgAAQBAJ) - Why a good night of rest is vital to a better and heallthier life.
 * [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
+* [Unplug: A simple guide to meditation for busy sceptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ) - Simple no nonsense guide to meditating with smart tips for lifestyle, self fulfillment and happiness.
 
 ### Lists
 * [Mental Health Knowledge Base](https://mhwkb.github.io/) - List of resources about Mental Health.
