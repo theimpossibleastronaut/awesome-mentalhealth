@@ -37,4 +37,5 @@ A curated list of anything remotely related to mental health, sorted an alphabet
 * [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
 
 ### Websites
+* [Students Against Depression](http://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 * [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
