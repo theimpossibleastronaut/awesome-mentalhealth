@@ -1,7 +1,7 @@
 # Awesome Mental Health
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anything remotely related to mental health, sorted an alphabetical order.
+A curated list of anything remotely related to mental health, sorted by alphabetical order.
 
 - [Apps](#apps)
 - [Platforms](#platforms)
@@ -35,6 +35,7 @@ A curated list of anything remotely related to mental health, sorted an alphabet
 
 ### Magazines
 * [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
+* [OpenMinds Quarterly](http://www.openmindsquarterly.com/) - Explorations of life with(in) mental illness, addiction & recovery.
 
 ### Websites
 * [Students Against Depression](http://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
