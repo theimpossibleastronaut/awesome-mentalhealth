@@ -17,6 +17,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 * [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 * [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress and anxiety alongside a supportive community.
+* [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
 
 ## Platforms
 * [if-me.org](https://www.if-me.org/) - Platform for sharing your mental health experiences with the people you choose.
