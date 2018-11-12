@@ -39,8 +39,8 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ### Magazines
 * [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
-* [OpenMinds Quarterly](http://www.openmindsquarterly.com/) - Explorations of life with(in) mental illness, addiction & recovery.
+* [OpenMinds Quarterly](https://www.openmindsquarterly.com/) - Explorations of life with(in) mental illness, addiction & recovery.
 
 ### Websites
-* [Students Against Depression](http://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
+* [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 * [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
