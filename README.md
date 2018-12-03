@@ -5,6 +5,7 @@
 A curated list of anything remotely related to mental health, sorted by alphabetical order.
 
 - [Apps](#apps)
+    - [Selfhosted](#selfhosted)
 - [Platforms](#platforms)
 - [Resources](#resources)
     - [Books](#books)
