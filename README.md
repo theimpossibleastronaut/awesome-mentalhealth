@@ -7,13 +7,15 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Apps](#apps)
 - [Platforms](#platforms)
 - [Resources](#resources)
-	- [Books](#books)
+    - [Books](#books)
     - [Lists](#lists)
     - [Magazines](#magazines)
     - [Websites](#websites)
 
 ## Apps
 * [Aloe](https://aloe.club) - A self-care focused community.
+* [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
+* [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
 * [Lantern](https://golantern.com) - Web & mobile app that provides effective, affordable support for emotional well-being.
 * [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
