@@ -16,9 +16,9 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 ## Apps
 * [Aloe](https://aloe.club) - A self-care focused community.
 * [Lantern](https://golantern.com) - Web & mobile app that provides effective, affordable support for emotional well-being.
+* [meQuilibrium](https://mequilibrium.com) - Web & mobile app that harnesses behavioral psychology to build resilience and agility.
 * [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
-* [Pacifica](https://www.thinkpacifica.com/) - Daily tools for stress and anxiety alongside a supportive community.
 * [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
 
 ### Selfhosted
