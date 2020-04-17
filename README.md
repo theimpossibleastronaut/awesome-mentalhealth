@@ -15,11 +15,15 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ## Apps
 * [Aloe](https://aloe.club) - A self-care focused community.
+* [Calm](https://www.calm.com/) - Web & Mobile app that provides guided meditations, sleep stories, breathing programs, and relaxing    music to people experiencing stress and anxiety.
+* [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD symptoms by increasing the user’s awareness of negative thoughts through short games.
+* [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Lantern](https://golantern.com) - Web & mobile app that provides effective, affordable support for emotional well-being.
 * [meQuilibrium](https://mequilibrium.com) - Web & mobile app that harnesses behavioral psychology to build resilience and agility.
-* [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
 * [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 * [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
+* [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
+
 
 ### Selfhosted
 * [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
