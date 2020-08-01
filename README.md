@@ -43,9 +43,9 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 * [Unplug: A simple guide to meditation for busy sceptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ) - Simple no nonsense guide to meditating with smart tips for lifestyle, self fulfillment and happiness.
 
 ### Lists
+* [Awesome-Autism Resource List](https://github.com/aspergirl-git/awesome-autism) -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger's Syndrome.
 * [Mental Health Knowledge Base](https://mhwkb.github.io/) - List of resources about Mental Health.
 * [Selfcare.tech](http://selfcare.tech/) - List of resources mainly focussed on people in the tech industry, but really anyone can find something in here.
-* [Awesome-Autism Resource List](https://github.com/aspergirl-git/awesome-autism) -  A curated list of awesome resources for Autism Spectrum Disorder and Asperger's Syndrome.
 
 ### Magazines
 * [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
