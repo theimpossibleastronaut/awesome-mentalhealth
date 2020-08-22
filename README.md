@@ -52,5 +52,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 * [OpenMinds Quarterly](https://www.openmindsquarterly.com/) - Explorations of life with(in) mental illness, addiction & recovery.
 
 ### Websites
+* [Seize the Awkward](https://seizetheawkward.org/) - Tips that make it easier to talk about mental health with friends and family.
 * [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 * [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
