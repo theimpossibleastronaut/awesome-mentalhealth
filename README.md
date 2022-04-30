@@ -37,6 +37,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ### Books
 * [Dancing in the Rain](https://books.google.com/books?id=v4WcDAEACAAJ) - Aimed at education leaders to help them thrive under pressure by using mindfulness and self-compassion.
+* [Stay](https://www.google.com/books/edition/Stay/7QCPAQAAQBAJ) - Jennifer Michael Hecht channels her grief for two friends lost to suicide into a search for history’s most persuasive arguments against suicide.
 * [The Craving Mind](https://books.google.com/books?id=f888DgAAQBAJ) - About addictions, how we get them and how to get rid of them using mindfulness.
 * [The Mystery of Sleep](https://books.google.com/books/?id=bAQ0DgAAQBAJ) - Why a good night of rest is vital to a better and heallthier life.
 * [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
