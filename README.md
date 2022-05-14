@@ -1,7 +1,5 @@
 # Awesome Mental Health [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Build Status](https://travis-ci.com/theimpossibleastronaut/awesome-mentalhealth.svg?branch=master)](https://travis-ci.com/theimpossibleastronaut/awesome-mentalhealth)
-
 A curated list of anything remotely related to mental health, sorted by alphabetical order.
 
 ## Contents
