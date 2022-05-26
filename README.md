@@ -59,6 +59,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ### Websites
 
+- [Grief Beyond Belief](http://griefbeyondbelief.org) - Aims to facilitate peer-to-peer grief support for atheists, Humanists, and other Freethinkers by providing spaces free of religion, spiritualism, mysticism, and evangelism in which to share sorrow and offer the comfort of rational compassion.
 - [Seize the Awkward](https://seizetheawkward.org/) - Tips that make it easier to talk about mental health with friends and family.
 - [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 - [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
