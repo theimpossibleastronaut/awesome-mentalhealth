@@ -15,7 +15,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ## Apps
 
-- [Aloe](https://aloe.club) - A self-care focused community.
 - [Calm](https://www.calm.com/) - Web & Mobile app that provides guided meditations, sleep stories, breathing programs, and relaxing    music to people experiencing stress and anxiety.
 - [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD symptoms by increasing the user's awareness of negative thoughts through short games.
 - [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
