@@ -11,6 +11,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
   - [Books](#books)
   - [Lists](#lists)
   - [Magazines](#magazines)
+  - [Organizations](#organizations)
   - [Websites](#websites)
 
 ## Apps
@@ -55,6 +56,10 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 - [Greater Good Magazine](https://greatergood.berkeley.edu/) - Science-based insights for a meaningful life.
 - [OpenMinds Quarterly](https://www.openmindsquarterly.com/) - Explorations of life with(in) mental illness, addiction & recovery.
+
+### Organizations
+
+- [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
 
 ### Websites
 
