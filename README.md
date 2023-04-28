@@ -9,6 +9,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Platforms](#platforms)
 - [Resources](#resources)
   - [Books](#books)
+    - [Dutch - Nederlands](#dutch---nederlands)
   - [Lists](#lists)
   - [Magazines](#magazines)
   - [Organizations](#organizations)
@@ -19,7 +20,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Calm](https://www.calm.com/) - Web & Mobile app that provides guided meditations, sleep stories, breathing programs, and relaxing    music to people experiencing stress and anxiety.
 - [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD symptoms by increasing the user's awareness of negative thoughts through short games.
 - [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
-- [Lantern](https://golantern.com) - Web & mobile app that provides effective, affordable support for emotional well-being.
 - [meQuilibrium](https://mequilibrium.com) - Web & mobile app that harnesses behavioral psychology to build resilience and agility.
 - [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 - [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
@@ -42,10 +42,15 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 - [Dancing in the Rain](https://books.google.com/books?id=v4WcDAEACAAJ) - Aimed at education leaders to help them thrive under pressure by using mindfulness and self-compassion.
 - [Stay](https://www.google.com/books/edition/Stay/7QCPAQAAQBAJ) - Jennifer Michael Hecht channels her grief for two friends lost to suicide into a search for history's most persuasive arguments against suicide.
+- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://books.google.nl/books?id=PDAEzLL9mscC) - Kristin Neff provides wise a clear and decisive advisory on how to be kind to yourself.
 - [The Craving Mind](https://books.google.com/books?id=f888DgAAQBAJ) - About addictions, how we get them and how to get rid of them using mindfulness.
 - [The Mystery of Sleep](https://books.google.com/books/?id=bAQ0DgAAQBAJ) - Why a good night of rest is vital to a better and heallthier life.
 - [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
 - [Unplug: A simple guide to meditation for busy sceptics and modern soul seekers](https://books.google.com/books?id=O1AODQAAQBAJ) - Simple no nonsense guide to meditating with smart tips for lifestyle, self fulfillment and happiness.
+
+#### Dutch - Nederlands
+- [:netherlands: Ik zie anders niks aan je](https://www.google.nl/books/edition/Ik_zie_anders_niks_aan_je/JQM1zwEACAAJ) - Psychiatrist Menno Oosterhoff writes about his 25 years of experience in the field, and offers insights for acceptance.
+- [:netherlands: Vals Alarm; Leven met een dwangstoornis](https://www.google.nl/books/edition/Vals_alarm/QuO8DAEACAAJ) - Psychiatrist Menno Oosterhoff is an expert by experience and trade in the field of Anxiety.
 
 ### Lists
 
