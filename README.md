@@ -42,7 +42,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 - [Dancing in the Rain](https://books.google.com/books?id=v4WcDAEACAAJ) - Aimed at education leaders to help them thrive under pressure by using mindfulness and self-compassion.
 - [Stay](https://www.google.com/books/edition/Stay/7QCPAQAAQBAJ) - Jennifer Michael Hecht channels her grief for two friends lost to suicide into a search for history's most persuasive arguments against suicide.
-- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://books.google.nl/books?id=PDAEzLL9mscC) - Kristin Neff provides wise a clear and decisive advisory on how to be kind to yourself.
+- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://books.google.nl/books?id=PDAEzLL9mscC) - Kristin Neff offers practical, wise guidance on the path of emotional healing and deep inner transformation.
 - [The Craving Mind](https://books.google.com/books?id=f888DgAAQBAJ) - About addictions, how we get them and how to get rid of them using mindfulness.
 - [The Mystery of Sleep](https://books.google.com/books/?id=bAQ0DgAAQBAJ) - Why a good night of rest is vital to a better and heallthier life.
 - [Uncovering Happiness: Overcoming Depression with Mindfulness and Compassion](https://books.google.com/books?id=99OcDQAAQBAJ) - Confronting but non judgemental book about happiness, depression and compassion.
