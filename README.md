@@ -60,6 +60,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 ### Organizations
 
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
+- [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
 
 ### Websites
 
@@ -67,5 +68,4 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Seize the Awkward](https://seizetheawkward.org/) - Tips that make it easier to talk about mental health with friends and family.
 - [Students Against Depression](https://studentsagainstdepression.org/) - Blogs, tips and information for and by students.
 - [The Mighty](https://themighty.com) - Stories, articles and news about different mental health topics.
-- [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
 - [mentalhealth.day](https://mentalhealth.day) - Share this site as your status, out of office email, or on social media when you take a self-care day to normalize and destigmatize mental health.
