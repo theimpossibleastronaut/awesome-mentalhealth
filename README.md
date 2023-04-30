@@ -13,6 +13,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
   - [Lists](#lists)
   - [Magazines](#magazines)
   - [Organizations](#organizations)
+  - [Treatment Options](#treatment-options)
   - [Websites](#websites)
 
 ## Apps
@@ -66,6 +67,10 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
 - [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
+
+### Treatment Options
+
+- [MedShadow Foundation](https://medshadow.org/) - Aims to protect lives by uncovering the hidden and minimized risks of medicines so that everyone has the ability to make informed decisions about the risks, benefits, and alternatives to medicines.
 
 ### Websites
 
