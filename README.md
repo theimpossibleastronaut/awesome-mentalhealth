@@ -13,6 +13,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
   - [Lists](#lists)
   - [Magazines](#magazines)
   - [Organizations](#organizations)
+  - [Peer Support](#peer-support)
   - [Treatment Options](#treatment-options)
   - [Websites](#websites)
 
@@ -68,6 +69,10 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [International Society for Traumatic Stress Studies](https://istss.org/) - Dedicated to sharing information about the effects of trauma and the discovery and dissemination of knowledge about policy, program and service initiatives that seek to reduce traumatic stressors and their immediate and long-term consequences.
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
 - [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
+
+### Peer Support
+
+- [Hearing Voices Network (HVN) USA](http://www.hearingvoicesusa.org/) - One of over 20 nationally-based networks around the world joined by shared goals and values, incorporating a fundamental belief that there are many ways to understand the experience of hearing voices and other unusual or extreme experiences.
 
 ### Treatment Options
 
