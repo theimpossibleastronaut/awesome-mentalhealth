@@ -68,6 +68,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 - [International Society for Traumatic Stress Studies](https://istss.org/) - Dedicated to sharing information about the effects of trauma and the discovery and dissemination of knowledge about policy, program and service initiatives that seek to reduce traumatic stressors and their immediate and long-term consequences.
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
+- [PsychRights](https://psychrights.org/) - The Law Project for Psychiatric Rights is a non-profit public interest law firm whose mission is to mount a  strategic litigation campaign against forced psychiatric drugging and electroshock in the United States.
 - [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
 
 ### Peer Support
