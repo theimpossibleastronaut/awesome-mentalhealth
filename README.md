@@ -53,6 +53,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 #### Dutch - Nederlands
 - [:netherlands: Ik zie anders niks aan je](https://www.google.nl/books/edition/Ik_zie_anders_niks_aan_je/JQM1zwEACAAJ) - Psychiatrist Menno Oosterhoff writes about his 25 years of experience in the field, and offers insights for acceptance.
 - [:netherlands: Vals Alarm; Leven met een dwangstoornis](https://www.google.nl/books/edition/Vals_alarm/QuO8DAEACAAJ) - Psychiatrist Menno Oosterhoff is an expert by experience and trade in the field of Anxiety.
+- [Mad in the Netherlands](https://madinthenetherlands.org/) - Wil internationale wetenschap en ervaringskennis op het gebied van psychiatrie, sociale rechtvaardigheid en psychofarmaca toegankelijker maken.
 
 ### Lists
 
@@ -67,6 +68,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 ### Organizations
 
 - [International Society for Traumatic Stress Studies](https://istss.org/) - Dedicated to sharing information about the effects of trauma and the discovery and dissemination of knowledge about policy, program and service initiatives that seek to reduce traumatic stressors and their immediate and long-term consequences.
+- [Mad in America](https://www.madinamerica.com/) - Aims to serve as a catalyst for rethinking psychiatric care in the United States (and abroad).
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
 - [PsychRights](https://psychrights.org/) - The Law Project for Psychiatric Rights is a non-profit public interest law firm whose mission is to mount a  strategic litigation campaign against forced psychiatric drugging and electroshock in the United States.
 - [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
