@@ -34,7 +34,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
 
 ## Platforms
-
+- [kuakua.app](https://kuakua.app/) - A platform that collects and shares mental health resources with you.
 - [if-me.org](https://www.if-me.org/) - Platform for sharing your mental health experiences with the people you choose.
 - [Vrendle](https://vrendle.com) - Virtual Reality platform for mental healthcare providers.
 
