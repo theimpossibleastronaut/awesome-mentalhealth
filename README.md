@@ -71,6 +71,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Mad in America](https://www.madinamerica.com/) - Aims to serve as a catalyst for rethinking psychiatric care in the United States (and abroad).
 - [Open Excellence](https://openexcellence.org/) - Funds independent research and innovative programs that improve mental health care outcomes.
 - [PsychRights](https://psychrights.org/) - The Law Project for Psychiatric Rights is a non-profit public interest law firm whose mission is to mount a  strategic litigation campaign against forced psychiatric drugging and electroshock in the United States.
+- [SAFE 4 Recovery](https://www.survivorsandfamiliesempowered.org/) - A collaboration of psychiatric Survivors And Families Empowered by our conviction that by working together we can create the supports and tools needed to meet an ever increasing number of serious problems that we encounter today.
 - [Warfighter Advance](https://www.warfighteradvance.org/) - Their mission is the successful reintegration of every warfighter (For USA military).
 
 ### Peer Support
