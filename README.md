@@ -27,7 +27,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques. Features voice sessions, mood tracking, journaling, and 24/7 availability.
 - [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
 - [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
-- [Daily Wellness Empowerment Program](https://dwep-app.gitlab.io/) - Cost-free, ad-free wellness app that combines 10 evidence-based practices (meditation, fitness, nutrition, etc.) into one platform.
+- [Daily Wellness Empowerment Program](https://dwep-app.gitlab.io/) - Wellness app that combines 10 evidence-based practices (meditation, fitness, nutrition, etc.) into one platform.
 
 
 - [Unslaive](https://unslaive.space) - AI-powered psychological pattern profiling grounded in Schema Therapy and CBT. Takes a 20-question intake, runs it through 8 specialist AI experts, and delivers a 4-piece insight: your core pattern, its origin, a reframe, and a 7-day behavioral experiment.
