@@ -5,7 +5,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 ## Contents
 
 - [Apps](#apps)
-  - [Selfhosted](#selfhosted)
 - [Platforms](#platforms)
 - [Resources](#resources)
   - [Books](#books)
@@ -31,11 +30,6 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 
 - [Unslaive](https://unslaive.space) - AI-powered psychological pattern profiling grounded in Schema Therapy and CBT. Takes a 20-question intake, runs it through 8 specialist AI experts, and delivers a 4-piece insight: your core pattern, its origin, a reframe, and a 7-day behavioral experiment.
-
-### Selfhosted
-
-- [DukkhaLessClient](https://github.com/DukkhaLess/DukkhaLessClient) - A self-care application for individuals seeking to improve their mental health.
-- [DukkhaLessServer](https://github.com/DukkhaLess/DukkhaLessServer) - The backend server for the DukkhaLess service.
 
 ## Platforms
 - [kuakua.app](https://kuakua.app/) - A platform that collects and shares mental health resources with you.
